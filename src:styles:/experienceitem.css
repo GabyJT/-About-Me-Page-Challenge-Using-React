@@ -1,0 +1,30 @@
+/* experienceitem.css */
+
+.experience-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.experience-item h3 {
+    margin-top: 0;
+    font-size: 20px;
+    color: #333;
+}
+
+.experience-item .company {
+    font-size: 16px;
+    color: #555;
+}
+
+.experience-item .duration {
+    font-size: 14px;
+    color: #777;
+}
+
+.experience-item .description {
+    font-size: 14px;
+    color: #333;
+}

@@ -1,0 +1,29 @@
+/* personalinfo.css */
+
+.personal-info {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    text-align: center;
+}
+
+.personal-info h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.personal-info p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.personal-info a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.personal-info a:hover {
+    text-decoration: underline;
+}

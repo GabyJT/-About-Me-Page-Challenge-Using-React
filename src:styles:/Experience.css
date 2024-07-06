@@ -1,0 +1,24 @@
+/* experience.css */
+
+.experience {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.experience h2 {
+    margin-top: 0;
+    font-size: 24px;
+    color: #0073e6;
+}
+
+.experience ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.experience ul li {
+    margin-bottom: 15px;
+}
